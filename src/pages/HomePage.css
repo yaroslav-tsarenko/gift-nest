@@ -1,0 +1,314 @@
+.the-fastest-way {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.of-gift-cards,
+.seconds {
+  margin: 0;
+}
+.of-gift-cards-container1 {
+  width: 100%;
+}
+.of-gift-cards-container {
+  height: 64px;
+  width: 532.6px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.hero-subtitle {
+  width: 1680px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 16px;
+}
+.hero,
+.the-fastest-way-to-send-gift-c-parent {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.the-fastest-way-to-send-gift-c-parent {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 160px 20px;
+  gap: 16px;
+  background-image: url(/public/frame-52@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hero {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 40px;
+  text-align: center;
+  font-size: 80px;
+  color: #fff;
+  font-family: Inter;
+}
+.from-dallas-to,
+.send-a-little {
+  margin: 0;
+}
+.send-a-little-container {
+  margin: 0;
+  position: relative;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.continent-items {
+  height: 38px;
+  width: 93px;
+}
+.section-africa {
+  position: relative;
+  line-height: 22px;
+}
+.continent-items1 {
+  border-radius: 20px;
+  border: 1px solid #1d1d1d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 23px;
+  white-space: nowrap;
+}
+.section-africa1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 112px;
+}
+.continent-items2 {
+  border-radius: 20px;
+  border: 1px solid #1d1d1d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 23px;
+  white-space: nowrap;
+}
+.section-africa2 {
+  position: relative;
+  line-height: 22px;
+}
+.continent-items3 {
+  border-radius: 20px;
+  background-color: #1d1d1d;
+  border: 1px solid #1d1d1d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 23px;
+  white-space: nowrap;
+  color: #fff;
+}
+.continent-items4 {
+  height: 38px;
+  width: 102px;
+}
+.continent-items5 {
+  height: 38px;
+  width: 159px;
+}
+.continents {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 45px;
+  max-width: 100%;
+}
+.ding-to-make,
+.my-mother-is,
+.refill-her-balance {
+  margin: 0;
+}
+.my-mother-is-container1 {
+  width: 100%;
+}
+.my-mother-is-container,
+.testimonial {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.my-mother-is-container {
+  margin: 0;
+  width: 739.4px;
+  position: relative;
+  line-height: 135%;
+}
+.testimonial {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 32px;
+  text-align: center;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: Inter;
+}
+.trusted-by-over {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.trust-statement {
+  width: 1048px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 4px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.trust-container,
+.whether-you-call {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.whether-you-call {
+  width: 1048px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  justify-content: center;
+}
+.trust-container {
+  flex: 1;
+  background-color: #1d1d1d;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  z-index: 1;
+}
+.homepage,
+.trust-container-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.trust-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #fff;
+  font-family: Inter;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .continents {
+    flex-wrap: wrap;
+  }
+  .trust-container {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .the-fastest-way {
+    font-size: 40px;
+    line-height: 53px;
+  }
+  .the-fastest-way-to-send-gift-c-parent {
+    padding-top: 104px;
+    padding-bottom: 104px;
+    box-sizing: border-box;
+  }
+  .send-a-little-container {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .continents {
+    gap: 22px;
+  }
+  .testimonial {
+    gap: 16px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .trusted-by-over {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .trust-container {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .the-fastest-way {
+    font-size: 24px;
+    line-height: 35px;
+  }
+  .send-a-little-container {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .testimonial {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .trusted-by-over {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .trust-container-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

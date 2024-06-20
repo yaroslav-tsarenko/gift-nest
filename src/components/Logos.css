@@ -1,0 +1,386 @@
+.background14 {
+  height: 8px;
+  width: 56px;
+  position: absolute;
+  margin: 0 !important;
+  top: 50px;
+  left: 0;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.heading-21 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.choice-card-description-icons1 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.choice-card-description-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.the-perfect-gift {
+  position: relative;
+  line-height: 22px;
+}
+.choice-card-description-icons-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.vector-icon {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.over-130-different {
+  position: relative;
+  line-height: 22px;
+}
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon1 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.the-perfect-solution {
+  position: relative;
+  line-height: 22px;
+}
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon2 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.available-as-a {
+  position: relative;
+  line-height: 22px;
+}
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.vector-icon3 {
+  width: 15.6px;
+  height: 9.9px;
+  position: relative;
+}
+.vector-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6px;
+}
+.available-to-order {
+  position: relative;
+  line-height: 22px;
+}
+.choice-card-description,
+.frame-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.choice-card-description {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+  font-size: 16px;
+}
+.heading-2-all-in-1-choice-gi-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 52px;
+}
+.choice-card,
+.choice-card-content,
+.heading-2-all-in-1-choice-gi-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.choice-card-content {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.choice-card {
+  width: 415.6px;
+  flex-direction: column;
+  padding: 150px 0 0;
+  box-sizing: border-box;
+  min-width: 415.6px;
+}
+.gc-uk-home-image-mockuppng-icon {
+  width: 910px;
+  position: relative;
+  border-radius: 20px;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.logos-grid-fifth-row-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.recharge-buttons {
+  height: 46px;
+  width: 176px;
+}
+.recharge-buttons1 {
+  height: 46px;
+  flex: 1;
+  min-width: 142px;
+}
+.recharge-options {
+  width: 410px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.adidas-logosvg-icon {
+  height: 40px;
+  width: 40.8px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.airbnb-logosvg-icon,
+.asos-logosvg-icon,
+.boohoo-logosvg-icon {
+  align-self: stretch;
+  width: 63.7px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.decathlon-logosvg-icon,
+.deliveroo-logo-witsvg-icon,
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  align-self: stretch;
+  width: 61px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.deliveroo-logo-witsvg-icon,
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  width: 100.3px;
+}
+.foot-locker-logosvg-icon,
+.gardengift-logosvg-icon {
+  width: 61px;
+}
+.gardengift-logosvg-icon {
+  width: 63.7px;
+}
+.logos-grid-first-row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.justeat-logosvg-icon,
+.love2shop-logosvg-icon,
+.miller-and-carter-steakhouse-l-icon,
+.new-look-logosvg-icon {
+  align-self: stretch;
+  width: 80px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.nike-logosvg-icon,
+.primark-logo-witsvg-icon,
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  align-self: stretch;
+  width: 49.3px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+}
+.primark-logo-witsvg-icon,
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  width: 100.3px;
+}
+.riverisland-logosvg-icon,
+.sports-direct-logosvg-icon {
+  width: 80px;
+}
+.logos-grid-first-row1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.logos,
+.logos-grid {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.logos-grid {
+  flex: 1;
+  background-color: #1d1d1d;
+  flex-direction: column;
+  padding: 80px 120px;
+  gap: 32px;
+}
+.logos {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Inter;
+}
+@media screen and (max-width: 1575px) {
+  .choice-card,
+  .gc-uk-home-image-mockuppng-icon {
+    flex: 1;
+  }
+  .logos-grid-fifth-row-content {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .logos-grid-first-row1 {
+    justify-content: center;
+  }
+  .logos,
+  .logos-grid {
+    box-sizing: border-box;
+  }
+  .logos-grid {
+    padding: 52px 60px;
+  }
+  .logos {
+    padding-bottom: 52px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading-21 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .choice-card {
+    min-width: 100%;
+  }
+  .logos-grid-first-row {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .logos,
+  .logos-grid {
+    box-sizing: border-box;
+  }
+  .logos-grid {
+    gap: 16px;
+    padding: 34px 30px;
+  }
+  .logos {
+    padding-bottom: 34px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-21 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .heading-2-all-in-1-choice-gi-parent {
+    gap: 26px;
+  }
+  .choice-card {
+    padding-top: 97px;
+    box-sizing: border-box;
+  }
+}
